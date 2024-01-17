@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+parts:
+  - caption: AI/ChatGPT
+  - caption: Digitale geletterdheid
+  - caption: Informatica
+
+
+
+

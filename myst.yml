@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: "i&i conferentie april 2024"
+  # description:
+  keywords: []
+  authors: []
+  # github:
+  # bibliography: []
+site:
+  template: book-theme
+  title: "i&i conferentie april 2024"
+  options:
+    logo: assets/ieni-logo-115.png
+    logo_text: "i&i voorjaarsconferentie 2024"
+  nav: []
+  actions:
+    - title: i&i forum
+      url: https://forum.ieni.org/c/ai-voor-onderwijs/25 
+    - title: i&i home
+      url: https://ieni.org
+    
+  domains: []
