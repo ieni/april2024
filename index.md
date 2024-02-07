@@ -1,6 +1,6 @@
 # i&i conferentie - 18 april 2024
 
-## *Digitale Geletterdheid: van kerndoel naar de klas*
+## *Digitale geletterdheid: van kerndoel naar de klas*
 
 Op 18 april organiseert i&i de voorjaarsconferentie voor docenten Informatica en Digitale
 geletterdheid. Een belangrijk thema van deze conferentie is de invoering van Digitale
