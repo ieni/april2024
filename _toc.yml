@@ -1,10 +1,20 @@
 format: jb-book
 root: index
 parts:
-  - caption: AI/ChatGPT
+  - caption: AI
+    chapters:
+      - file: ai/advisory-board
+      - file: ai/chatgpt-voor-docenten
   - caption: Digitale geletterdheid
+    chapters:
+      - file: dg/keynote
+      - file: dg/forum
+      - file: dg/boetje
+      - file: dg/physical-computing-markt
+      - file: dg/dg-bovenbouw
   - caption: Informatica
-
-
-
-
+    chapters:
+      - file: inf/semantic-wave
+      - file: inf/programmeren-en-design
+      - file: inf/security
+      - file: inf/python-play

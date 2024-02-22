@@ -23,3 +23,177 @@ Net als bij de vorige conferenties kun je gratis een collega meenemen.
 
 Het programma wordt hier t.z.t. bekend gemaakt.
 
+(detail-programma)=
+### Programma in detail
+
+:::{admonition} Let op! Voorlopig programma
+:class: warning
+
+Het onderstaande programma is **VOORLOPIG** - **wijzigingen voorbehouden**
+:::
+
+::::{grid} 1 1 1 1
+
+:::{card}
+:link: dg/keynote
+:header: Keynote
+
+**Digitale geletterdheid: de nieuwe kerndoelen**
+*Natascha Grgurina (SLO) e.a.*
+:::
+
+::::
+
+:::::{grid} 1 1 2 4
+
+
+:::{card}
+
+**AI**
+:::
+
+
+:::{card}
+**Digitale geletterdheid**
+:::
+
+:::{card}
+**Informatica**
+:::
+
+:::{card}
+**Informatica en DG**
+:::
+:::::
+
+::::{grid} 1 1 2 4
+:::{card}
+:link: ai/advisory-board
+:header: AI
+
+Een AI Advisory board voor je school
+*Mark van de Mortel*
+:::
+
+:::{card}
+:link: dg/forum
+:header: DG
+
+Forumgesprek digitale geletterdheid 
+*Remco Pijpers*
+:::
+
+:::{card}
+:link: inf/semantic-wave
+:header: INF
+
+Semantic Wave in je les
+*Jasper Dukers*
+
+:::
+
+:::{card}
+:header: DG/INF
+(t.b.c.)
+
+:::
+
+
+::::
+
+::::{grid} 1 1 1 1
+
+:::{card} Pauze
+Lunch en markt
+:::
+
+::::
+
+::::{grid} 1 1 2 4
+:::{card}
+:link: ai/chatgpt-voor-docenten
+:header: AI
+
+ChatGPT voor docenten
+*Ramon Moorlag, Eelco Dijkstra*
+:::
+
+:::{card}
+:link: dg/boetje
+:header: DG
+
+Informatievaardigheden in je PO/VO lessen
+*Josien Boetje*
+:::
+
+:::{card}
+:link: inf/security
+:header: INF
+
+(wordt ingevuld)
+
+:::
+
+:::{card}
+:link: dg/dg-bovenbouw
+:header: DG/INF 
+
+Digitale geletterdheid in de bovenbouw  
+*Jos Tolboom (SLO)*  
+:::
+
+
+::::
+
+::::{grid} 1 1 2 4
+:::{card}
+:header: AI
+:link: ai/to-be-confirmed
+
+(wordt ingevuld)
+:::
+
+:::{card}
+:link: dg/bjoc
+:header: DG
+
+BJOC en het nieuwe DG curriculum
+
+(wordt ingevuld)
+:::
+
+:::{card}
+:header: INF 
+
+[Games maken met Python Play](inf/python-play) *Marieke Brinkman*
+
+---
+
+[Programmeren en Design in informatica](inf/programmeren-en-design)
+*Anne van Harten, Mazyar Serai*
+
+:::
+
+
+
+:::{card}
+:header: DG/INF 
+:link: dg/physical-computing-markt
+Markt Physical computing
+
+*div. docenten*
+
+:::
+
+
+::::
+
+
+
+::::{grid} 1 1 1 1
+
+:::{card} Afsluiting
+Borrel
+:::
+
+::::
