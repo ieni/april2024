@@ -1,6 +1,6 @@
 # Games maken met Python Play
 
-*Marieke Brinkman (Lek en Linge Culemborg)*
+**Marieke Brinkman** *(Lek en Linge Culemborg)*
 
 Willen jouw leerlingen graag games maken, maar is hun programmeerkennis nog
 niet zo heel groot? In deze workshop laat ik zien hoe je met Python heel

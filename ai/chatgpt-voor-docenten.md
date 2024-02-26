@@ -3,7 +3,8 @@
 *Ramon Moorlag, Eelco Dijkstra*
 
 
-Zie de [presentatie](../assets/chatten-met-docenten.pdf) en de [tekst](chatgpt-workshop)
+Zie de [presentatie](../assets/chatten-met-docenten.pdf)
+ en de [website](https://infvo.github.io/chatgptbook//).
 
 :::{admonition} Deze workshop zelf geven?
 We willen jullie graag helpen om deze workshop op je eigen school te geven

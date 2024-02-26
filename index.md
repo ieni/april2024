@@ -87,7 +87,7 @@ Forumgesprek digitale geletterdheid
 :link: inf/semantic-wave
 :header: INF
 
-Semantic Wave in je les
+Semantic Waves in je les
 *Jasper Dukers*
 
 :::
