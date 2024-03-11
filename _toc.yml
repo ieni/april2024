@@ -12,6 +12,7 @@ parts:
       - file: dg/boetje
       - file: dg/physical-computing-markt
       - file: dg/dg-bovenbouw
+      - file: dg/honderd-queries
   - caption: Informatica
     chapters:
       - file: inf/semantic-wave

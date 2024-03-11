@@ -84,17 +84,18 @@ Forumgesprek digitale geletterdheid
 :::
 
 :::{card}
-:link: inf/semantic-wave
+:link: inf/security
 :header: INF
 
-Semantic Waves in je les
-*Jasper Dukers*
+Security workshop. *Peter van Eijk*
 
 :::
 
 :::{card}
+:link: dg/maker-education
 :header: DG/INF
-(t.b.c.)
+
+Maker Education from the Maker Country *Rachel Zhang*
 
 :::
 
@@ -127,10 +128,13 @@ Informatievaardigheden in je PO/VO lessen
 :::
 
 :::{card}
-:link: inf/security
 :header: INF
 
-(wordt ingevuld)
+[Semantic Waves in je les](inf/semantic-wave) *Jasper Dukers*
+
+---
+
+(wordt nog ingevuld)
 
 :::
 
@@ -154,12 +158,14 @@ Digitale geletterdheid in de bovenbouw
 :::
 
 :::{card}
-:link: dg/bjoc
 :header: DG
 
-BJOC en het nieuwe DG curriculum
+(wordt nog ingevuld)
 
-(wordt ingevuld)
+---
+
+[Het 100 queries project](dg/honderd-queries)
+*Maarten Sprenger, Carsten Schnober*
 :::
 
 :::{card}
@@ -181,7 +187,7 @@ BJOC en het nieuwe DG curriculum
 :link: dg/physical-computing-markt
 Markt Physical computing
 
-*div. docenten*
+*Rachel Zhang, team Physical Computing, e.a.*
 
 :::
 
