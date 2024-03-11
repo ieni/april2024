@@ -87,7 +87,7 @@ Forumgesprek digitale geletterdheid
 :link: inf/security
 :header: INF
 
-Security workshop. *Peter van Eijk*
+Security en CTF *Peter van Eijk*
 
 :::
 
