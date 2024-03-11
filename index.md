@@ -134,7 +134,7 @@ Informatievaardigheden in je PO/VO lessen
 
 ---
 
-(wordt nog ingevuld)
+[Traceren en herschrijven van programma's](inf/traceren) *Tim Steenvoorden*
 
 :::
 
@@ -175,7 +175,7 @@ Digitale geletterdheid in de bovenbouw
 
 ---
 
-[Programmeren en Design in informatica](inf/programmeren-en-design)
+[Uitgestelde aandacht en informatica](inf/programmeren-en-design)
 *Anne van Harten, Mazyar Serai*
 
 :::

@@ -19,3 +19,4 @@ parts:
       - file: inf/programmeren-en-design
       - file: inf/security
       - file: inf/python-play
+      - file: inf/traceren

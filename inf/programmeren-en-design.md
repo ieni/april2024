@@ -1,4 +1,4 @@
-# Programmeren en Design in informatica
+# Uitgestelde aandacht en informatica
 
 ***Anne van Harten, Mazyar Serai*** - Het Stedelijk Lyceum Enschede
 
