@@ -2,20 +2,8 @@
 
 *Ramon Moorlag, Eelco Dijkstra*
 
-
-Zie de [presentatie](../assets/chatten-met-docenten.pdf)
- en de [website](https://infvo.github.io/chatgptbook//).
-
-:::{admonition} Deze workshop zelf geven?
-We willen jullie graag helpen om deze workshop op je eigen school te geven
-voor je collega-docenten.
-Neem in dat geval even contact op met ons, ook voor eventuele assistentie.
-We horen graag jullie ervaringen en suggesties om deze workshop te verbeteren!
-
-De tekst van de workshop, met de nodige achtergrondinformatie, vind je
-[hier](chatgpt-workshop).
-:::
-
+Zie de [website](https://infvo.github.io/chatgptbook//) voor de presentatie 
+en andere informatie.
 
 ChatGPT komt zonder handleiding. Het interface is erg eenvoudig: je kunt in
 natuurlijke taal, Engels of Nederlands, een vraag stellen, en je krijgt een
@@ -47,4 +35,14 @@ Als voorbereiding voor de workshop kun je de video's van Ethan Mollick en Lilach
 
 :::{admonition} Let op!
 Workshop, met een beperkt aantal deelnemers (maximaal 35).
+:::
+
+:::{admonition} Deze workshop zelf geven?
+We willen jullie graag helpen om deze workshop op je eigen school te geven
+voor je collega-docenten.
+Neem in dat geval even contact op met ons, ook voor eventuele assistentie.
+We horen graag jullie ervaringen en suggesties om deze workshop te verbeteren!
+
+De tekst van de workshop, met de nodige achtergrondinformatie, vind je
+[hier](chatgpt-workshop).
 :::

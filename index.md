@@ -21,7 +21,6 @@ Net als bij de vorige conferenties kun je gratis een collega meenemen.
 
 ## Programma
 
-Het programma wordt hier t.z.t. bekend gemaakt.
 
 (detail-programma)=
 ### Programma in detail
