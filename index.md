@@ -38,7 +38,7 @@ Het onderstaande programma is **VOORLOPIG** - **wijzigingen voorbehouden**
 :header: Keynote
 
 **Digitale geletterdheid: de nieuwe kerndoelen**
-*Natascha Grgurina (SLO) e.a.*
+*Natasa Grgurina (SLO) e.a.*
 :::
 
 ::::
