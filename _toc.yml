@@ -5,6 +5,7 @@ parts:
     chapters:
       - file: ai/advisory-board
       - file: ai/chatgpt-voor-docenten
+      - file: ai/nolai
   - caption: Digitale geletterdheid
     chapters:
       - file: dg/keynote

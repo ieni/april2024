@@ -16,7 +16,7 @@ Digitale geletterdheid-onderwerpen.
 :::{admonition} Aanmelden
 Aanmelden kan via [deze link](https://www.smink-registratie.nl/ieni/)
 
-Net als bij de vorige conferenties kun je gratis een collega meenemen.
+Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
 :::
 
 ## Programma
@@ -151,9 +151,9 @@ Digitale geletterdheid in de bovenbouw
 ::::{grid} 1 1 2 4
 :::{card}
 :header: AI
-:link: ai/to-be-confirmed
+:link: ai/nolai
 
-(wordt ingevuld)
+AI & onderwijs - de basis *Wouter Jansen*
 :::
 
 :::{card}
