@@ -159,7 +159,7 @@ AI & onderwijs - de basis *Wouter Jansen*
 :::{card}
 :header: DG
 
-(wordt nog ingevuld)
+[HBO Master DG en INF](dg/hbo-master) *Fontys, HvA, HU*
 
 ---
 
