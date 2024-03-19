@@ -14,6 +14,7 @@ parts:
       - file: dg/physical-computing-markt
       - file: dg/dg-bovenbouw
       - file: dg/honderd-queries
+      - file: dg/hbo-master
   - caption: Informatica
     chapters:
       - file: inf/semantic-wave
