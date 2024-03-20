@@ -159,7 +159,7 @@ AI & onderwijs - de basis *Wouter Jansen*
 :::{card}
 :header: DG
 
-[HBO Master DG en INF](dg/hbo-master) *Fontys, HvA, HU*
+[HBO Master DG en INF](dg/hbo-master) *Martijn Koops, Eric van Alphen, Sharon Calor*
 
 ---
 

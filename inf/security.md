@@ -27,5 +27,5 @@ beginnersvriendelijk, maar enige basiskennis van programmeren en netwerken is
 aanbevolen. Je hebt een laptop nodig met een internetverbinding en een
 webbrowser.
 
-Ben je klaar om je security-skills naar een hoger niveau te tillen? Schrijf je
-dan nu in voor deze workshop en laat je uitdagen door CTF.
+Ben je klaar om je security-skills naar een hoger niveau te tillen? Kom naar
+deze workshop en laat je uitdagen door CTF.
