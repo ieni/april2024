@@ -1,6 +1,6 @@
 # Security en CTF
 
-**Peter van Eijk, Hogeschool Utrecht**
+**Peter van Eijk, Hogeschool Utrecht & [JointCyberRange.nl](http://jointcyberrange.nl/)**
 
 *Security en CTF: een praktische workshop voor docenten informatica*
 
@@ -11,7 +11,8 @@ oplossen, zoals het kraken van wachtwoorden, het vinden van kwetsbaarheden in
 webapplicaties, het analyseren van netwerkverkeer, en meer.
 
 De workshop wordt gegeven door Peter van Eijk, een ervaren security-expert en
-docent informatica bij de Hogeschool Utrecht. Hij zal je uitleggen wat CTF is,
+hoofddocent informatica bij de Hogeschool Utrecht. 
+Hij zal je uitleggen wat CTF is,
 hoe het werkt, en waarom het nuttig is voor jezelf en je leerlingen. Je krijgt
 ook de kans om zelf een paar eenvoudige CTF-opgaven te proberen, en tips en
 krijgen van Peter om zelf aan de slag te gaan in jouw klas.
