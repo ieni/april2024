@@ -1,6 +1,6 @@
 # Het 100 Queries project
 
-**Maarten Sprenger (Slimzoeken.nl), Carsten Schnober**
+**Maarten Sprenger (Slimzoeken.nu), Carsten Schnober**
 
 Voor ‘Slim Zoeken’ onderzochten Maarten Sprenger en Carsten Schnober de
 kwaliteit en bruikbaarheid van de zoekresultaten in Google op honderd
@@ -59,4 +59,4 @@ Digitale Geletterdheid.
 
 ## Carsten Schnober
 
-(volgt)
+Software engineer and Natural Language Processing (NLP) researcher met een kritische kijk op maatschappij en technologie.
