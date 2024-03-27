@@ -79,7 +79,7 @@ Een AI Advisory board voor je school
 :header: DG
 
 Forumgesprek digitale geletterdheid 
-*Remco Pijpers*
+
 :::
 
 :::{card}
