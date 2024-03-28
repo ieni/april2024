@@ -60,3 +60,6 @@ Digitale Geletterdheid.
 ## Carsten Schnober
 
 Software engineer and Natural Language Processing (NLP) researcher met een kritische kijk op maatschappij en technologie.
+
+[linkedin.com/in/carsten-s-a1aba020](https://www.linkedin.com/in/carsten-s-a1aba020/),
+[esciencecenter.nl/team/carsten-schnober/](https://www.esciencecenter.nl/team/carsten-schnober/)
