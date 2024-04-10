@@ -15,6 +15,7 @@ parts:
       - file: dg/dg-bovenbouw
       - file: dg/honderd-queries
       - file: dg/hbo-master
+      - file: dg/maker-education
   - caption: Informatica
     chapters:
       - file: inf/semantic-wave
