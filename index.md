@@ -21,6 +21,10 @@ Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
 
 ## Programma
 
+:::{image} assets/programma-ieni-april2024.png
+:align: center
+:width: 700
+:::
 
 (detail-programma)=
 ### Programma in detail
@@ -28,7 +32,7 @@ Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
 :::{admonition} Let op! Voorlopig programma
 :class: warning
 
-Het onderstaande programma is **VOORLOPIG** - **wijzigingen voorbehouden**
+Het programma is **VOORLOPIG** - **wijzigingen voorbehouden**
 :::
 
 ::::{grid} 1 1 1 1
@@ -138,11 +142,17 @@ Informatievaardigheden in je PO/VO lessen
 :::
 
 :::{card}
-:link: dg/dg-bovenbouw
 :header: DG/INF 
+**Parallel!!**
 
-Digitale geletterdheid in de bovenbouw  
-*Jos Tolboom (SLO)*  
+[Nieuwe concept-kerndoelen DG in DIGIT](dg/instruct-digit)
+*Instruct*
+
+---
+
+[DG in de bovenbouw](dg/dg-bovenbouw)  
+*Jos Tolboom (SLO)* 
+ 
 :::
 
 
