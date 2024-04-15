@@ -227,7 +227,6 @@ Borrel
 :link: https://dfrobot.com
 
 :::{image} assets/dfrobot-logo.png
-:height: 110
 :::
 ::::
 
