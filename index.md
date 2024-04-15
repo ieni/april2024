@@ -143,7 +143,6 @@ Informatievaardigheden in je PO/VO lessen
 
 :::{card}
 :header: DG/INF 
-**Parallel!!**
 
 [Nieuwe concept-kerndoelen DG in DIGIT](dg/instruct-digit)
 *Instruct*
