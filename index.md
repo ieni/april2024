@@ -224,6 +224,8 @@ Borrel
 
 :::::{grid} 1 1 2 4
 ::::{card}
+:link: https://dfrobot.com
+
 :::{image} assets/dfrobot-logo.png
 :::
 ::::
@@ -233,7 +235,7 @@ Borrel
 ::::
 
 ::::{card}
-
+:link:  https://www.dwengo.org
 :::{image} assets/dwengo-logo.svg
 :height: 110
 :::
