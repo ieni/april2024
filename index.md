@@ -224,10 +224,10 @@ Borrel
 
 :::::{grid} 1 1 2 4
 ::::{card}
-:height: 110
 :link: https://dfrobot.com
 
 :::{image} assets/dfrobot-logo.png
+:height: 110
 :::
 ::::
 
