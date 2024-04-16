@@ -12,3 +12,31 @@ Hier volgt later een beschrijving van de verschillende demonstraties.
 - *Ronald Leijtens* - robotica met micro:bit
 - *Eelco Dijkstra* - physical computing met de micro:bit - van Lego tot Internet of Things
 - *Rachel Zhang* (DFRobot)
+
+## Snel aan de slag met Arduino via TinkerCAD
+
+**Jochum van Weert**
+
+De lol van het keuzedomein M: Physical Computing is natuurlijk het bouwen van
+toffe toepassingen in de echte wereld met behulp van sensoren, actuatoren en
+code.  Maar het gestoei met componenten, draadjes, breadboards en al dat
+andere kan ook een drempel zijn om met het domein te beginnen of een
+praktische beperking om er in de les en met name ook buiten de les door de
+leerlingen aan te laten werken. Een hele goede hulp hierbij is de gratis
+online simulatieomgeving Tinkercad. Dit is een erg uitgebreide tool waarin
+schakelingen met bijvoorbeeld Arduino of Microbit volledig online in de
+browser kunnen worden gemaakt en getest. Laagdrempelig en gemakkelijk om snel
+dingen uit te proberen. Bovendien kan alles wat je in tinkercad bouwt daarna
+gebruikt worden om het systeem in het echt te bouwen. 
+
+Jochum gebruikt Tinkercad al een aantal jaar effectief in de les en laat je
+graag de mogelijkheden en voordelen zien tijdens Physical Computing markt. [Al
+zijn lesmateriaal en uitleg over zijn aanpak vind je hier.](https://informatica.sgdb.nl/index.php/overig/physical-computing-op-het-sgdb-i-i-conferentie)
+
+:::{image} ../assets/arduino-tinkercad.png
+:width: 700
+:::
+
+
+
+

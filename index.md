@@ -211,3 +211,38 @@ Borrel
 :::
 
 ::::
+
+## Sponsors en bijdragen
+
+**Gesponsord door**
+
+:::{image} assets/instruct-logo.png
+:width: 200
+:::
+
+**en bijdragen van**
+
+:::::{grid} 1 1 2 4
+::::{card}
+:link: https://dfrobot.com
+
+:::{image} assets/dfrobot-logo.png
+:::
+::::
+
+::::{card}
+<br>
+::::
+
+::::{card}
+:link:  https://www.dwengo.org
+:::{image} assets/dwengo-logo.svg
+:height: 110
+:::
+::::
+
+::::{card}
+<br>
+::::
+
+:::::
