@@ -21,7 +21,7 @@ Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
 
 ## Programma
 
-:::{image} assets/programma-ieni-april2024.png
+:::{image} assets/programma-ieni-april2024-zalen.png
 :align: center
 :width: 700
 :::
@@ -216,9 +216,22 @@ Borrel
 
 **Gesponsord door**
 
+:::::{grid} 1 1 2 2
+
+::::{card}
+:link: https://instruct.nl
+
 :::{image} assets/instruct-logo.png
-:width: 200
 :::
+::::
+
+::::{card}
+:link: https://www.bit-academy.nl
+:::{image} assets/bit-academy-logo.png
+:::
+::::
+
+:::::
 
 **en bijdragen van**
 

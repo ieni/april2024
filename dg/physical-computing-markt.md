@@ -37,6 +37,26 @@ zijn lesmateriaal en uitleg over zijn aanpak vind je hier.](https://informatica.
 :width: 700
 :::
 
+## Ronals Leijtens: drones en microbit robots 
 
+Voor PO leerlingen (voor de introductiedagen) heeft Ronald een programma voor het
+programmeren van drones. Leerlingen kunnen in een aantal stappen een drone programmeren
+om daarmee een parcours af te leggen.
+
+De VO-leerlingen informatica gaan met microbit robots aan de slag, 
+en met andere microbit-opdrachten, onder andere om te oefenen met toestandsdiagrammen
+(eindige automaten) - in het kader van het domein Grondslagen.
+
+## Eelco Dijkstra: microbit programmeren met Python
+
+Het lesmateriaal van het keuzedomein Physical computing is aangepast aan het gebruik
+van Python voor de microbit. 
+Dit materiaal is te vinden op: https://eelcodijkstra.github.io/pcbook/
+
+Daarnaast zijn er leuke opdrachten voor de microbit met Python te vinden op:
+https://eelcodijkstra.github.io/microbitbook/intro.html
+
+Ook voor het Internet of Things kun je de microbit gebruiken, met Python:
+https://eelcodijkstra.github.io/microbit-iot/intro.html
 
 
