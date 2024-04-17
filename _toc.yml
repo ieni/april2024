@@ -24,3 +24,6 @@ parts:
       - file: inf/security
       - file: inf/python-play
       - file: inf/traceren
+  - caption: Route
+    chapters:
+    - file: route-en-parkeren 
