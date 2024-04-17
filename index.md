@@ -19,6 +19,10 @@ Aanmelden kan via [deze link](https://www.smink-registratie.nl/ieni/)
 Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
 :::
 
+:::{tip}
+**Neem je laptop mee!** In enkele van de workshops heb je deze nodig.
+:::
+
 ## Programma
 
 :::{image} assets/programma-ieni-april2024-zalen.png
@@ -29,10 +33,8 @@ Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
 (detail-programma)=
 ### Programma in detail
 
-:::{admonition} Let op! Voorlopig programma
-:class: warning
-
-Het programma is **VOORLOPIG** - **wijzigingen voorbehouden**
+:::{warning} 
+**wijzigingen voorbehouden**
 :::
 
 ::::{grid} 1 1 1 1
@@ -83,6 +85,7 @@ Een AI Advisory board voor je school
 :header: DG
 
 Forumgesprek digitale geletterdheid 
+*Jelmer Evers*
 
 :::
 
