@@ -13,12 +13,6 @@ Digitale geletterdheid-onderwerpen.
   Universiteit Utrecht - [hoe kom ik daar?](route-en-parkeren)
 * **datum en tijd**: 18 april 2024, 9:00 - 17:30 uur
   
-:::{admonition} Aanmelden
-Aanmelden kan via [deze link](https://www.smink-registratie.nl/ieni/)
-
-Net als bij de vorige conferenties kun je **gratis een collega meenemen**.
-:::
-
 :::{tip}
 **Neem je laptop mee!** In enkele van de workshops heb je deze nodig.
 :::
