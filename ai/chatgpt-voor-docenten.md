@@ -33,10 +33,6 @@ Als voorbereiding voor de workshop kun je de video's van Ethan Mollick en Lilach
 
 :::
 
-:::{admonition} Let op!
-Workshop, met een beperkt aantal deelnemers (maximaal 35).
-:::
-
 :::{admonition} Deze workshop zelf geven?
 We willen jullie graag helpen om deze workshop op je eigen school te geven
 voor je collega-docenten.
