@@ -10,8 +10,7 @@ Daarnaast is er natuurlijk aandacht voor andere Informatica en
 Digitale geletterdheid-onderwerpen.
 
 * **locatie**: [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
-  Universiteit Utrecht
-    * [hoe kom ik daar?](route-en-parkeren)
+  Universiteit Utrecht - [hoe kom ik daar?](route-en-parkeren)
 * **datum en tijd**: 18 april 2024, 9:00 - 17:30 uur
   
 :::{admonition} Aanmelden

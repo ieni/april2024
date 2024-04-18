@@ -4,10 +4,11 @@ Forumdiscussie onder leiding van **Jelmer Evers (AOB)**
 
 Het forum bestaat uit:
 
-* Josien Boetje, Hogeschool Utrecht, wetenschapper DG 
-* Birthe Rikke, docent VO (ob)
-* Franka van Deursen (PO)
-* Natasa Grgurina (SLO)
+* Natasa Grugurina; SLO'er, docentopleider en docent informatica
+* Franka van Deursen, leraar PO, ict coordinator
+* Birthe Rikke, leraar VO, ICT docent
+* Josien Boetje, Hogeschool Utrecht, wetenschapper DG
+* Aad van der Drift, oud-docent VO, maatschapijleer, en digitale innovator
 
 Naast de vragen uit de zaal, kunnen de volgende zaken aan de orde komen:
 
