@@ -22,7 +22,6 @@ Ook van de vorige conferenties kun je de presentaties e.d. nog terugkijken:
 * [i&i najaarsconferentie 2023](https://ieni.github.io/ieni2023/)
 * [i&i voorjaarsconferentie 2023](https://ieni.github.io/april2023/)
 * [i&i najaarsconferentie 2022](https://ieni.github.io/ieni2022/)
-* [i&i najaarsconferentie 2021](https://ieni.github.io/ieni2021/)
 * [i&i najaarsconferentie 2019](https://ieni.github.io/ieni2019/)
 * [i&i najaarsconferentie 2018](https://ieni.github.io/ieni2018/)
 
