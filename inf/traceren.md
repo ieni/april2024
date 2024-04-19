@@ -18,3 +18,80 @@ programmeermodellen. Zijn onderzoeksinteresses liggen in het ontwerpen,
 implementeren en verifiëren van programmeertalen. Daarnaast heeft hij de
 afgelopen jaren bijgedragen aan de lesmodules algoritmiek en cognitive
 computing voor het nieuwe informatica curriculum.
+
+De programmacode bij deze sessie:
+
+```Python
+def section(name):
+  print()
+  print("====", name, "example", "====")
+
+
+section("Product")
+
+"https://pastefy.app/kflGA7c2"
+inventory = [
+  {"name": "piano",  "quantity": 2,   "price": 5000},
+  {"name": "tv",     "quantity": 20,  "price": 1000},
+  {"name": "teddy",  "quantity": 54,  "price": 25},
+  {"name": "pencil", "quantity": 120, "price": 1},
+]
+
+print(inventory[2])
+
+
+section("Total")
+
+def stock_total(products):
+  som = 0
+  i = 0
+  while i < len(products):
+    som += products[i]["quantity"]
+    i += 1
+  return som
+
+def price_total(products):
+  som = 0
+  i = 0
+  while i < len(products):
+    som += products[i]["price"]
+    i += 1
+  return som
+
+def price_total_rec(products):
+  match products:
+    case []:
+      return 0
+    case first, *rest:
+      return first["price"] + price_total_rec(rest)
+
+print(stock_total(inventory))
+print(price_total(inventory))
+print(price_total_rec(inventory))
+
+
+section("Average")
+
+def average_price(products):
+  return price_total(products) / len(products)
+
+print(average_price(inventory))
+
+
+section("Palindrome")
+
+def palindrome(chars):
+  match chars:
+    case [] | [_]:
+      return True
+    case first, *middle, last:
+      return first == last and palindrome(middle)
+
+print(palindrome(list("")))
+print(palindrome(list("a")))
+print(palindrome(list("rar")))
+print(palindrome(list("raar")))
+print(palindrome(list("lepel")))
+print(palindrome(list("not")))
+print(palindrome(list("expensive")))
+```
