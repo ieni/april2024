@@ -2,6 +2,8 @@
 
 *Jos Tolboom (SLO)*
 
+*presentatie:* [Eindelijk kerndoelen - hoe nu verder?](../assets/tolboom/Eindelijk-kerndoelen-DG-Hoe-nu-verder-IenI-april-2024.pdf)
+
 Op 6 maart jongstleden heeft demissionair minister Paul de conceptkerndoelen
 voor digitale geletterdheid (DG; po – onderbouw vo) in ontvangst genomen.
 Hiermee is de ontwikkelfase van die conceptkerndoelen officieel afgesloten. De
@@ -19,3 +21,10 @@ Kortom: flinke stappen zijn gezet, maar er moet ook nog veel gebeuren. Meer
 daarover in deze werkgroep. Deel je gedachten over hoe één en ander kan worden
 gerealiseerd. Zodat we ons samen voorbereiden op een toekomst waarin DG het
 Nederlandse curriculum versterkt.
+
+Bestanden:
+
+* [Eindelijk kerndoelen - hoe nu verder?](../assets/tolboom/Eindelijk-kerndoelen-DG-Hoe-nu-verder-IenI-april-2024.pdf)
+* [Hoe verder met DG?](../assets/tolboom/Hoe-verder-met-DG-ieni2024.pdf)
+* [Relatie DG - Informatica - post-its](../assets/tolboom/Relatie-DG-informatica.pdf)
+* [Relatie DG - Informatica (csv)](../assets/tolboom/Relatie-DG-informatica.csv)
