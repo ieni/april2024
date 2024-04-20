@@ -2,6 +2,8 @@
 
 *Mark van de Mortel (Roer College Roermond)*
 
+[Presentatie](../assets/AI-Advisory-Board-op-ROER-College-Schöndeln.pdf)
+
 Een praktijkverhaal over de rol die een AI Advisory Board binnen een school
 kan spelen. Zo’n AI Advisory Board vergroot niet alleen de bewustwording over
 de impact van kunstmatige intelligentie, maar draagt ook bij aan het
