@@ -5,6 +5,8 @@ digitale geletterdheidsconcepten*
 
 **Jasper Dukers (UvA)**
 
+*De presentatie vind je [hier](https://docs.google.com/presentation/d/1Zf_wLYLgstSCs1EJQlYyAnasgvdZcGU7FxSLcIQypqU/edit?usp=sharing)*
+
 Een van de grootste uitdagingen die wij als docenten ervaren, is het
 overbrengen van complexe concepten zoals recursie, algoritmes, of constructies
 zoals een "while loop". Voor een ervaren programmeur draagt een term als
