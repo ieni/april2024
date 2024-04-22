@@ -1,6 +1,8 @@
 # Nieuwe conceptkerndoelen digitale geletterdheid in DIGIT
 
-*Instruct*
+**Christa Klop, Hafida Makioui, Jolien de Waard (Instruct)**
+
+*De presentatie vind je [hier](../assets/20241604_presentatie-digitaal-geletterd-met-digit-ieni.pdf).*
 
 De nieuwe conceptkerndoelen voor digitale geletterdheid zijn bekend. Ben je
 benieuwd welke impact dit heeft en hoe je deze nieuwe doelen kunt
