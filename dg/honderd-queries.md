@@ -2,6 +2,8 @@
 
 **Maarten Sprenger (Slimzoeken.nu), Carsten Schnober**
 
+*De presentatie vind je [hier](../assets/20240418-slimzoeken-100queries01.pdf).*
+
 Voor ‘Slim Zoeken’ onderzochten Maarten Sprenger en Carsten Schnober de
 kwaliteit en bruikbaarheid van de zoekresultaten in Google op honderd
 uiteenlopende informatieve zoekopdrachten van kinderen van acht tot twaalf
