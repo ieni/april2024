@@ -2,6 +2,8 @@
 
 **Anne van Harten** - TA-Help.me, Het Stedelijk Lyceum Enschede
 
+*De presentatie vind je [hier](../assets/ieni-presentatie-ta-help-me.pdf)*
+
 
 Op het Stedelijk Lyceum in Enschede vragen leerlingen bij de Informatica les
 niet om aandacht door hun hand op te steken, maar eerst via een online tool
